@@ -1,4 +1,3 @@
-1
 import discord
 from discord.ext import commands
 from discord import app_commands
@@ -485,4 +484,4 @@ class SatinAlindiButton(discord.ui.Button):
         await interaction.channel.delete()
 
 
-bot.run("MTM3MjE4NTE5ODQ5MzcwMDIwNw.GbzaRv.s_l-BHyDGf4m8_fi5ALNjJ8B44AFAt4Y_B07AQ")
+bot.run("MTM3MjE4NTE5ODQ5MzcwMDIwNw.GlNHXa._p9tmkWl5Svv-tFvVhNiq72pVNOzv2xXG4I59Y")
