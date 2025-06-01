@@ -406,5 +406,5 @@ async def ticket(interaction: discord.Interaction):
 
 
 keep_alive()
-token = os.getenv("TOKEN")
-bot.run("MTM3MjE4NTE5ODQ5MzcwMDIwNw.G5xdJt.pxlNwyMS9YWQmUjNO9sUyeXgF9wG69joVsgXzU")
+token = os.getenv("MTM3MjE4NTE5ODQ5MzcwMDIwNw.G5xdJt.pxlNwyMS9YWQmUjNO9sUyeXgF9wG69joVsgXzU")
+bot.run(Token)
