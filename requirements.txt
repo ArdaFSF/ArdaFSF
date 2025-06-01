@@ -39,8 +39,6 @@ pyperclip==1.9.0
 PyRect==0.2.0
 PyScreeze==1.0.1
 pytweening==1.2.0
-pywin32==310
-pywin32-ctypes==0.2.3
 requests==2.32.3
 setuptools==80.8.0
 six==1.17.0
